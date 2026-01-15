@@ -1,5 +1,5 @@
 # HR Analytics Dashboard (Power BI Project)
-🎥 Project Demo Video: https://drive.google.com/drive/u/0/my-drive
+🎥 Project Demo Video: https://drive.google.com/file/d/1zJBgRQAM4KsZCHPhf8kOJWbeldve10Hh/view?usp=sharing
 ## Objective
 To analyze employee attrition and identify key factors affecting employee turnover across departments.
 
